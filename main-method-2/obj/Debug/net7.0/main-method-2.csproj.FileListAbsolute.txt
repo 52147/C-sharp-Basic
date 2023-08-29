@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/main-method-2/bin/Debug/net7.0/main-method-2
+/Users/shou-tzuhan/Desktop/C#/main-method-2/bin/Debug/net7.0/main-method-2.deps.json
+/Users/shou-tzuhan/Desktop/C#/main-method-2/bin/Debug/net7.0/main-method-2.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/main-method-2/bin/Debug/net7.0/main-method-2.dll
+/Users/shou-tzuhan/Desktop/C#/main-method-2/bin/Debug/net7.0/main-method-2.pdb
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.dll
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/refint/main-method-2.dll
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.pdb
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/main-method-2.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-2/obj/Debug/net7.0/ref/main-method-2.dll

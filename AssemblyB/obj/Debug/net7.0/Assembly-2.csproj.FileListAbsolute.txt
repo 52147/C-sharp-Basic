@@ -1,0 +1,5 @@
+/Users/shou-tzuhan/Desktop/C#/Assembly-2/obj/Debug/net7.0/Assembly-2.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/Assembly-2/obj/Debug/net7.0/Assembly-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/Assembly-2/obj/Debug/net7.0/Assembly-2.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/Assembly-2/obj/Debug/net7.0/Assembly-2.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/Assembly-2/obj/Debug/net7.0/Assembly-2.csproj.CoreCompileInputs.cache

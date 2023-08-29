@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/bin/Debug/net7.0/field-vs-property
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/bin/Debug/net7.0/field-vs-property.deps.json
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/bin/Debug/net7.0/field-vs-property.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/bin/Debug/net7.0/field-vs-property.dll
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/bin/Debug/net7.0/field-vs-property.pdb
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.dll
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/refint/field-vs-property.dll
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.pdb
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/field-vs-property.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/field-vs-property/obj/Debug/net7.0/ref/field-vs-property.dll

@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/bin/Debug/net7.0/const-readonly-static
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/bin/Debug/net7.0/const-readonly-static.deps.json
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/bin/Debug/net7.0/const-readonly-static.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/bin/Debug/net7.0/const-readonly-static.dll
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/bin/Debug/net7.0/const-readonly-static.pdb
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.dll
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/refint/const-readonly-static.dll
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.pdb
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/const-readonly-static.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/const-readonly-static/obj/Debug/net7.0/ref/const-readonly-static.dll

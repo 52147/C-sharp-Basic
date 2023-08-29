@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/bin/Debug/net7.0/protected-internal-access-modifier
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/bin/Debug/net7.0/protected-internal-access-modifier.deps.json
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/bin/Debug/net7.0/protected-internal-access-modifier.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/bin/Debug/net7.0/protected-internal-access-modifier.dll
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/bin/Debug/net7.0/protected-internal-access-modifier.pdb
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.dll
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/refint/protected-internal-access-modifier.dll
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.pdb
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/protected-internal-access-modifier.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/protected-internal-access-modifier/obj/Debug/net7.0/ref/protected-internal-access-modifier.dll

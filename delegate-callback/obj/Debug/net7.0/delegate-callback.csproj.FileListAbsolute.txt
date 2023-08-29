@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/bin/Debug/net7.0/delegate-callback
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/bin/Debug/net7.0/delegate-callback.deps.json
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/bin/Debug/net7.0/delegate-callback.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/bin/Debug/net7.0/delegate-callback.dll
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/bin/Debug/net7.0/delegate-callback.pdb
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.dll
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/refint/delegate-callback.dll
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.pdb
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/delegate-callback.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-callback/obj/Debug/net7.0/ref/delegate-callback.dll

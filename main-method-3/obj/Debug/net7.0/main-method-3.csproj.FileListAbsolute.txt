@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/main-method-3/bin/Debug/net7.0/main-method-3
+/Users/shou-tzuhan/Desktop/C#/main-method-3/bin/Debug/net7.0/main-method-3.deps.json
+/Users/shou-tzuhan/Desktop/C#/main-method-3/bin/Debug/net7.0/main-method-3.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/main-method-3/bin/Debug/net7.0/main-method-3.dll
+/Users/shou-tzuhan/Desktop/C#/main-method-3/bin/Debug/net7.0/main-method-3.pdb
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.dll
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/refint/main-method-3.dll
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.pdb
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/main-method-3.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/main-method-3/obj/Debug/net7.0/ref/main-method-3.dll

@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/data-types/bin/Debug/net7.0/data-types
+/Users/shou-tzuhan/Desktop/C#/data-types/bin/Debug/net7.0/data-types.deps.json
+/Users/shou-tzuhan/Desktop/C#/data-types/bin/Debug/net7.0/data-types.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/data-types/bin/Debug/net7.0/data-types.dll
+/Users/shou-tzuhan/Desktop/C#/data-types/bin/Debug/net7.0/data-types.pdb
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.dll
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/refint/data-types.dll
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.pdb
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/data-types.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/data-types/obj/Debug/net7.0/ref/data-types.dll

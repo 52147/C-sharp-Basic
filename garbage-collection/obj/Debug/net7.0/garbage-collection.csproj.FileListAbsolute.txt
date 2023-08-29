@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/bin/Debug/net7.0/garbage-collection
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/bin/Debug/net7.0/garbage-collection.deps.json
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/bin/Debug/net7.0/garbage-collection.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/bin/Debug/net7.0/garbage-collection.dll
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/bin/Debug/net7.0/garbage-collection.pdb
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.dll
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/refint/garbage-collection.dll
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.pdb
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/garbage-collection.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/garbage-collection/obj/Debug/net7.0/ref/garbage-collection.dll

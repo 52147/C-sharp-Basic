@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/bin/Debug/net7.0/async-await-vs-Task
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/bin/Debug/net7.0/async-await-vs-Task.deps.json
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/bin/Debug/net7.0/async-await-vs-Task.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/bin/Debug/net7.0/async-await-vs-Task.dll
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/bin/Debug/net7.0/async-await-vs-Task.pdb
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.dll
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/refint/async-await-vs-Task.dll
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.pdb
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/async-await-vs-Task.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/async-await-vs-Task/obj/Debug/net7.0/ref/async-await-vs-Task.dll

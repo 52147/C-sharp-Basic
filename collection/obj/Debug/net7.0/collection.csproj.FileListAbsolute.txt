@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/collection/bin/Debug/net7.0/collection
+/Users/shou-tzuhan/Desktop/C#/collection/bin/Debug/net7.0/collection.deps.json
+/Users/shou-tzuhan/Desktop/C#/collection/bin/Debug/net7.0/collection.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/collection/bin/Debug/net7.0/collection.dll
+/Users/shou-tzuhan/Desktop/C#/collection/bin/Debug/net7.0/collection.pdb
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.dll
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/refint/collection.dll
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.pdb
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/collection.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/collection/obj/Debug/net7.0/ref/collection.dll

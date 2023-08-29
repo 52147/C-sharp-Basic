@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/bin/Debug/net7.0/struct-vs-class
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/bin/Debug/net7.0/struct-vs-class.deps.json
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/bin/Debug/net7.0/struct-vs-class.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/bin/Debug/net7.0/struct-vs-class.dll
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/bin/Debug/net7.0/struct-vs-class.pdb
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.dll
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/refint/struct-vs-class.dll
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.pdb
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/struct-vs-class.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/struct-vs-class/obj/Debug/net7.0/ref/struct-vs-class.dll
