@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/delegate-event/bin/Debug/net7.0/delegate-event
+/Users/shou-tzuhan/Desktop/C#/delegate-event/bin/Debug/net7.0/delegate-event.deps.json
+/Users/shou-tzuhan/Desktop/C#/delegate-event/bin/Debug/net7.0/delegate-event.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/delegate-event/bin/Debug/net7.0/delegate-event.dll
+/Users/shou-tzuhan/Desktop/C#/delegate-event/bin/Debug/net7.0/delegate-event.pdb
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.dll
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/refint/delegate-event.dll
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.pdb
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/delegate-event.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/delegate-event/obj/Debug/net7.0/ref/delegate-event.dll
