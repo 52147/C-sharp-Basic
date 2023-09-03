@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/+=operator/bin/Debug/net7.0/+=operator
+/Users/shou-tzuhan/Desktop/C#/+=operator/bin/Debug/net7.0/+=operator.deps.json
+/Users/shou-tzuhan/Desktop/C#/+=operator/bin/Debug/net7.0/+=operator.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/+=operator/bin/Debug/net7.0/+=operator.dll
+/Users/shou-tzuhan/Desktop/C#/+=operator/bin/Debug/net7.0/+=operator.pdb
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.dll
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/refint/+=operator.dll
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.pdb
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/+=operator.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/+=operator/obj/Debug/net7.0/ref/+=operator.dll

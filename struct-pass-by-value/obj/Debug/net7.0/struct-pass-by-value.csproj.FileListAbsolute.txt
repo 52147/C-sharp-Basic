@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/bin/Debug/net7.0/struct-pass-by-value
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/bin/Debug/net7.0/struct-pass-by-value.deps.json
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/bin/Debug/net7.0/struct-pass-by-value.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/bin/Debug/net7.0/struct-pass-by-value.dll
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/bin/Debug/net7.0/struct-pass-by-value.pdb
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.dll
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/refint/struct-pass-by-value.dll
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.pdb
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/struct-pass-by-value.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/struct-pass-by-value/obj/Debug/net7.0/ref/struct-pass-by-value.dll

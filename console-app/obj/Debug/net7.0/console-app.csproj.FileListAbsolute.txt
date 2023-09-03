@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/console-app/bin/Debug/net7.0/console-app
+/Users/shou-tzuhan/Desktop/C#/console-app/bin/Debug/net7.0/console-app.deps.json
+/Users/shou-tzuhan/Desktop/C#/console-app/bin/Debug/net7.0/console-app.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/console-app/bin/Debug/net7.0/console-app.dll
+/Users/shou-tzuhan/Desktop/C#/console-app/bin/Debug/net7.0/console-app.pdb
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.dll
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/refint/console-app.dll
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.pdb
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/console-app.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/console-app/obj/Debug/net7.0/ref/console-app.dll

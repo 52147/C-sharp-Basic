@@ -42,14 +42,16 @@ class Program
 {
     static void Main()
     {
+        // Working with struct (Value Type)
         PointStruct ps1 = new PointStruct(1, 1);
-        PointStruct ps2 = ps1;
+        PointStruct ps2 = ps1; // Copying the value
         ps2.Move(1, 1);
         Console.WriteLine($"ps1: {ps1.X}, {ps1.Y}"); // Outputs "ps1: 1, 1"
         Console.WriteLine($"ps2: {ps2.X}, {ps2.Y}"); // Outputs "ps2: 2, 2"
 
+        // Working with class (Reference Type)
         PointClass pc1 = new PointClass(1, 1);
-        PointClass pc2 = pc1;
+        PointClass pc2 = pc1; // Pointing to the same object in memory
         pc2.Move(1, 1);
         Console.WriteLine($"pc1: {pc1.X}, {pc1.Y}"); // Outputs "pc1: 2, 2"
         Console.WriteLine($"pc2: {pc2.X}, {pc2.Y}"); // Outputs "pc2: 2, 2"

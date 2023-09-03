@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/bin/Debug/net7.0/class-pass-by-reference
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/bin/Debug/net7.0/class-pass-by-reference.deps.json
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/bin/Debug/net7.0/class-pass-by-reference.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/bin/Debug/net7.0/class-pass-by-reference.dll
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/bin/Debug/net7.0/class-pass-by-reference.pdb
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.dll
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/refint/class-pass-by-reference.dll
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.pdb
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/class-pass-by-reference.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/class-pass-by-reference/obj/Debug/net7.0/ref/class-pass-by-reference.dll

@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/bin/Debug/net7.0/destructor(Finalizer)
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/bin/Debug/net7.0/destructor(Finalizer).deps.json
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/bin/Debug/net7.0/destructor(Finalizer).runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/bin/Debug/net7.0/destructor(Finalizer).dll
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/bin/Debug/net7.0/destructor(Finalizer).pdb
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).dll
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/refint/destructor(Finalizer).dll
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).pdb
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/destructor(Finalizer).genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/destructor(Finalizer)/obj/Debug/net7.0/ref/destructor(Finalizer).dll
