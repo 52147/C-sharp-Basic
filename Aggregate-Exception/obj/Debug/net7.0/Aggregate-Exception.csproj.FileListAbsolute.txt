@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/bin/Debug/net7.0/Aggregate-Exception
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/bin/Debug/net7.0/Aggregate-Exception.deps.json
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/bin/Debug/net7.0/Aggregate-Exception.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/bin/Debug/net7.0/Aggregate-Exception.dll
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/bin/Debug/net7.0/Aggregate-Exception.pdb
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.dll
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/refint/Aggregate-Exception.dll
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.pdb
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/Aggregate-Exception.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/Aggregate-Exception/obj/Debug/net7.0/ref/Aggregate-Exception.dll

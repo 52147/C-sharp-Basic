@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/bin/Debug/net7.0/Cancellation-Token-Source
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/bin/Debug/net7.0/Cancellation-Token-Source.deps.json
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/bin/Debug/net7.0/Cancellation-Token-Source.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/bin/Debug/net7.0/Cancellation-Token-Source.dll
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/bin/Debug/net7.0/Cancellation-Token-Source.pdb
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.dll
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/refint/Cancellation-Token-Source.dll
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.pdb
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/Cancellation-Token-Source.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/Cancellation-Token-Source/obj/Debug/net7.0/ref/Cancellation-Token-Source.dll

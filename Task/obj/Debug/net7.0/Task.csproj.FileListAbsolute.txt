@@ -1,0 +1,15 @@
+/Users/shou-tzuhan/Desktop/C#/Task/bin/Debug/net7.0/Task
+/Users/shou-tzuhan/Desktop/C#/Task/bin/Debug/net7.0/Task.deps.json
+/Users/shou-tzuhan/Desktop/C#/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/shou-tzuhan/Desktop/C#/Task/bin/Debug/net7.0/Task.dll
+/Users/shou-tzuhan/Desktop/C#/Task/bin/Debug/net7.0/Task.pdb
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.csproj.AssemblyReference.cache
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.dll
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.pdb
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/shou-tzuhan/Desktop/C#/Task/obj/Debug/net7.0/ref/Task.dll
